@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 💬 Ask me about **Java, C, MySQL ,HTML, CSS**
+- 💬 Ask me about **Java, C, MySQL ,HTML, CSS, Python**
 
 - 📫 How to reach me **untabepala@std.appsc.sab.ac.lk**
 
