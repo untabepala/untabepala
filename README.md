@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **scikitLearn**
 
-- 💬 Ask me about **Java, C, MySQL ,HTML, CSS, Python**
+- 💬 Ask me about **Machine Learning, Java, C, MySQL ,HTML, CSS, Python**
 
 - 📫 How to reach me **untabepala@std.appsc.sab.ac.lk**
 
