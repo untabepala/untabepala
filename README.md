@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **untabepala@std.appsc.sab.ac.lk**
 
-- - 🔭 I’m currently working on **Image Recognition System**
+- 🔭 I’m currently working on **Image Recognition System**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
