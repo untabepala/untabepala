@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **TensorFlow**
 
-- 💬 Ask me about **Machine Learning, Java, C, MySQL ,HTML, CSS, Python, PHP**
+- 💬 Ask me about **Machine Learning, Java, C, MySQL ,HTML, CSS, Python, PHP, LINUX**
 
 - 📫 How to reach me **untabepala@std.appsc.sab.ac.lk**
 
