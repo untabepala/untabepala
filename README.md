@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **untabepala@std.appsc.sab.ac.lk**
 
-- 🔭 I’m currently working on **Image Recognition System**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nayani tharushika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nayani tharushika" height="30" width="40" /></a>
