@@ -7,7 +7,7 @@
 
 - 🧠 I’m currently learning **TensorFlow**
 
-- 🌱 I’m currently working on **Agrisage Application**
+- 🌱 I’m currently working on **Vitamin Deficiency Detection Application**
   
 - 💬 Ask me about **Machine Learning, Java, C, MySQL ,HTML, CSS, Python, PHP, LINUX**
 
