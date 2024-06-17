@@ -7,7 +7,7 @@
 
 - 🧠 I’m currently learning **Docker**
 
-- 🌱 I’m currently working on **Vitamin Deficiency Detection Application**
+- 🌱 I’m currently working on **Breast Cancer Detection System**
   
 - 💬 Ask me about **Machine Learning, Java, C, MySQL ,HTML, CSS, Python, PHP, LINUX**
 
