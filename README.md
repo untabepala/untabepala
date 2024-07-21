@@ -7,7 +7,7 @@
 
 - 🧠 I’m currently learning **Docker**
 
-- 🌱 I’m currently working on **Crop Yield Prediction System**
+- 🌱 I’m currently working on **Baby Chart Application**
   
 - 💬 Ask me about **Machine Learning, Java, C, MySQL ,HTML, CSS, Python, PHP, LINUX**
 
