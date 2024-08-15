@@ -7,7 +7,7 @@
 
 - 🧠 I’m currently learning **MongoDB**
 
-- 🌱 I’m currently working on **Baby Chart**
+- 🌱 I’m currently working on **BabyChart**
   
 - 💬 Ask me about **Machine Learning, Java, C, MySQL ,HTML, CSS, Python, PHP, LINUX**
 
