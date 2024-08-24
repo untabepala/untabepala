@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently working on **BabyChart**
   
-- 💬 Ask me about **Machine Learning, Java, C, MySQL ,HTML, CSS, Python, PHP, LINUX**
+- 💬 Ask me about **Machine Learning, Java, C, MySQL ,HTML, CSS, Python, PHP, LINUX, Flutter**
 
 - 📫 How to reach me **untabepala@std.appsc.sab.ac.lk**
 
