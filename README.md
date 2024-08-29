@@ -7,7 +7,7 @@
 
 - 🧠 I’m currently learning **Flutter**
 
-- 🌱 I’m currently working on **BabyChart**
+- 🌱 I’m currently working on **SewingStar**
   
 - 💬 Ask me about **Machine Learning, Java, C, MySQL ,HTML, CSS, Python, PHP, LINUX, Flutter**
 
